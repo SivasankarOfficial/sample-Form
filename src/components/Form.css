@@ -1,0 +1,27 @@
+.Form{
+    text-align: center;
+    margin-top: 10em;
+    padding: 5em;
+    background-color: aliceblue;
+    box-shadow: 5px 5px 40px 15px  rgb(145, 141, 141);
+    width: fit-content;
+   
+
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+input{
+    outline: none;
+    padding: 0.5em;
+    color: black;
+}
+button{
+    padding: 0.5em 3em;
+    margin-top: 10px;
+    /* background-color: rgb(93, 93, 224); */
+    background-image: linear-gradient(rgb(20, 20, 202) , rgb(224, 70, 70),rgb(24, 70, 70));
+    color: white;
+    border-style: none;
+}
